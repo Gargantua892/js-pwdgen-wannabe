@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #1abc9c;
+    height: 100vh;
+    color: #fff;
+    margin: 0px;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Sigmar', cursive;
+    font-size: 3em;
+    margin-bottom: 24px;
+}
+
+h5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;
+    display: block;
+    padding: 24px 0px;
+    background-color: #ffffff;
+    color: #43ccb0;
+    border-radius: 9em;
+    border: 8px dashed #a0ffec;
+}
+
+main{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
